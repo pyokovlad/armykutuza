@@ -1,7 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
 
 
-    
+    /*
+        Плавная прокрутка по якорям
+    */
 
     const links = document.querySelectorAll('a[href^="#"]');
 
@@ -36,7 +38,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-   
+    /*
+        Автоматическая подсветка текущей страницы
+    */
 
 
     const currentPage =
@@ -67,7 +71,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 
-    
+    /*
+        Проверка ссылок-заглушек
+    */
 
 
     const placeholders =

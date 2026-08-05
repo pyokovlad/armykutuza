@@ -862,8 +862,13 @@ h2 {
 
 }
 
+.googleform {
+    text-decoration: none;
 
-
+}
+.googleform:hover {
+    color: #dbcaaf;
+}
 
 /* Подвал */
 
