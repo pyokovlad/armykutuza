@@ -1844,3 +1844,42 @@ section[id],
 
 
 }
+
+/* Обязательные материалы */
+
+.important-materials{
+
+    background:
+    rgba(20,25,30,.95);
+
+    border-left:
+    4px solid #b08d57;
+
+    border:
+    1px solid #333;
+
+    border-radius:12px;
+
+    padding:25px;
+
+    margin:35px 0;
+
+}
+
+.important-materials h3{
+
+    color:#b08d57;
+
+    margin-bottom:15px;
+
+}
+
+.important-materials p{
+
+    color:#ddd;
+
+    font-size:17px;
+
+    line-height:1.7;
+
+}
